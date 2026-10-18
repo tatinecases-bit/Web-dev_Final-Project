@@ -2,7 +2,7 @@
 $DB_HOST = 'sql212.infinityfree.com';
 $DB_NAME = 'if0_43160575_attendance_db';
 $DB_USER = 'if0_43160575';
-$DB_PASS = 'szdOqt4G6kSo';
+$DB_PASS = 'your-password-here';
 
 try {
     $pdo = new PDO(
