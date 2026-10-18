@@ -2,4 +2,4 @@
 
 ## Admin Test Credentials
 - Username: admin
-- Password: admin123
+- Password: 1234
